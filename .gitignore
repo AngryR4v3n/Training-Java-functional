@@ -21,6 +21,10 @@
 #idea
 .idea/
 
+#deploy
+target/
+
+
 #Keys 
 keys.json
 
