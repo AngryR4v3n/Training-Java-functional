@@ -1,0 +1,6 @@
+version: "3"
+services:
+  java-terminal:
+    build: .
+    stdin_open: true
+    tty: true
