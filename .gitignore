@@ -24,6 +24,8 @@
 #deploy
 target/
 
+#node
+node_modules/
 
 #Keys 
 keys.json
